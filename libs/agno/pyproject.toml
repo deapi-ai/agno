@@ -144,6 +144,7 @@ code = [
 confluence = ["atlassian-python-api<5"]
 crawl4ai = ["crawl4ai>=0.6.3"]
 daytona = ["daytona"]
+deapi = []
 ddg = ["ddgs"]
 docling = ["docling"]
 duckdb = ["duckdb"]
@@ -311,6 +312,7 @@ tools = [
   "agno[confluence]",
   "agno[crawl4ai]",
   "agno[daytona]",
+  "agno[deapi]",
   "agno[ddg]",
   "agno[docling]",
   "agno[duckdb]",
